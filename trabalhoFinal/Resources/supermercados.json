@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "nome": "Sacolão ABC",
+        "endereco": "Avenida Antônio Carlos, 4048",
+        "coordenadas": {
+          "latitude": -19.87213604549329,
+          "longitude": -43.9540571
+        },
+        "horario_funcionamento": "Segunda a sábado, das 7h às 22h; \n Domingo, das 8h às 14h",
+        "telefone": "+55 (31) 3492-6853",
+        "image_name": "supermercado_abc"
+      },
+      {
+        "id": 2,
+        "nome": "Verdemar Pampulha",
+        "endereco": "Av. Santa Rosa, 846",
+        "coordenadas": {
+          "latitude": -19.866223,
+          "longitude": -43.951204
+        },
+        "horario_funcionamento": "24 horas",
+        "telefone": "+55 (31) 2391-0010",
+        "image_name": "verdemar_pampulha"
+      },
+      {
+        "id": 3,
+        "nome": "Sam's Club",
+        "endereco": "Av. Presidente Carlos Luz, 4055",
+        "coordenadas": {
+          "latitude": -19.864402,
+          "longitude": -43.943734
+        },
+        "horario_funcionamento": "Segunda a sábaldo, das 8h às 22h; domingo, das 8h às 21h",
+        "telefone": "+55 (31) 3395-5555",
+        "image_name": "sams_club"
+      },
+      {
+        "id": 4,
+        "nome": "Supernosso Pampulha",
+        "endereco": "Alameda das Princesas, 245",
+        "coordenadas": {
+          "latitude": -19.856779,
+          "longitude": -43.9689021
+        },
+        "horario_funcionamento": "Segunda a sábado, das 7h às 22h; domingo, das 8h às 20h",
+        "telefone": "(31) 3491-4862",
+        "image_name": "supernosso_pampulha"
+      },
+      {
+        "id": 5,
+        "nome": "Carrefour Pampulha",
+        "endereco": "Av. Pres. Carlos Luz, 4055",
+        "coordenadas": {
+          "latitude": -19.864402,
+          "longitude": -43.943734
+        },
+        "horario_funcionamento": "Segunda a sábado, das 8h às 22h; domingo, das 8h às 18h",
+        "telefone": "+55 (31) 3337-2000",
+        "image_name": "carrefour_pampulha"
+      },
+      {
+        "id": 6,
+        "nome": "Supermercado BH Pampulha",
+        "endereco": "Rua Izabel Bueno, 970",
+        "coordenadas": {
+          "latitude": -19.864150,
+          "longitude": -43.944166
+        },
+        "horario_funcionamento": "Segunda a sábado, das 7h às 21h; domingo, das 7h às 14h",
+        "telefone": "+55 (31) 3492-6853",
+        "image_name": "bh_pampulha"
+    }
+]
+  
